@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cyan1">#44D2D2</color>
+    <color name="cyan2">#5EB4B4</color>
+    <color name="cyan3">#7ECCCC</color>
+    <color name="bgcolor">#E5FEF9</color>
+    <color name="logbut">#429595</color>
+    <color name="apptheme">#009dff</color>
+    <color name="edit_textbg">#f6fbff</color>
+    <color name="card1">#44D2D2</color>
+    <color name="grey">#8BC34A</color>
+    <color name="bar">#079073</color>
+    <color name="card">#38908B</color>
+    <color name="but">#286A6A</color>
+</resources>

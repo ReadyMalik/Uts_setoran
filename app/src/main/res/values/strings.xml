@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">setoran_hafalan_juz30</string>
+    <string name="welcome">Welcome!</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="regis">REGIS</string>
+    <string name="email">Email</string>
+    <string name="registration">Registration</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="LOGIN" />
+    <string name="nim">NIM</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="home">HOME</string>
+    <string name="setoran">SETORAN</string>
+    <string name="riwayat">RIWAYAT</string>
+    <string name="no">No</string>
+    <string name="surah">Surah</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="paraf">Paraf</string>
+    <string name="download">Download</string>
+    />
+</resources>
